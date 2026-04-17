@@ -1,29 +1,32 @@
-ACCORDO DI LICENZA PER L'UTENTE FINALE (EULA) - SMARTWATT-APP
-Proprietario e Licenziante: Elia Mattia
-Versione: 1.0
+ACCORDO DI LICENZA PER L'UTENTE FINALE (EULA)
 
-NATURA DELL'ACCORDO
-Il presente documento costituisce un contratto legale tra l'Utente Finale e lo Sviluppatore Elia Mattia. L'installazione o l'uso del software implica l'accettazione integrale dei termini qui riportati.
+IMPORTANTE: Il presente Accordo di Licenza per l'Utente Finale costituisce un contratto legale tra l'utente (persona fisica o giuridica) e lo sviluppatore Elia Mattia per l'utilizzo dell'applicazione denominata Smartwatt-app. L'installazione, la copia o l'utilizzo del software comportano l'accettazione integrale dei termini qui riportati.
 
-CONCESSIONE DELLA LICENZA E PROVA
-2.1. Il Software è concesso in licenza d'uso, non venduto.
-2.2. L'Utente beneficia di un periodo di valutazione gratuita di 14 giorni.
-2.3. Allo scadere del periodo di prova, l'attivazione della licenza richiede la sottoscrizione di un abbonamento mensile di 4,99 Euro.
+OGGETTO DELLA LICENZA
+Il software Smartwatt-app, inclusi i file di supporto, gli algoritmi e la documentazione correlata, viene concesso in licenza d'uso e non venduto. Lo sviluppatore Elia Mattia resta l'unico titolare di tutti i diritti di proprietà intellettuale.
 
-RESTRIZIONI ALL'USO E DIVIETI TASSATIVI
-Ai sensi delle leggi vigenti sulla protezione della proprietà intellettuale, è fatto assoluto divieto di:
-A. Reverse engineering: tentare di decodificare, decompilare o analizzare il codice sorgente o gli algoritmi proprietari.
-B. Ridistribuzione: copiare, vendere, noleggiare o trasferire il software a terzi senza autorizzazione scritta.
-C. Modifica: alterare il software o rimuovere i marchi e le note di copyright.
+PERIODO DI VALUTAZIONE E PROVA
+Lo sviluppatore concede all'utente un periodo di valutazione gratuita della durata di 14 giorni solari a partire dal primo avvio dell'applicazione. Durante tale periodo, l'utente può testare tutte le funzionalità del software senza costi aggiuntivi. Al termine dei 14 giorni, la licenza d'uso scadrà automaticamente a meno che non venga sottoscritto l'abbonamento previsto.
+
+ABBONAMENTO E TERMINI DI PAGAMENTO
+L'utilizzo del software oltre il periodo di prova è subordinato al pagamento di un canone mensile pari a 4,99 Euro. Il pagamento abilita l'accesso alle funzionalità di automazione energetica e al monitoraggio in tempo reale. Il mancato rinnovo del pagamento comporterà la sospensione immediata del servizio.
+
+RESTRIZIONI ALL'USO E PROPRIETÀ INTELLETTUALE
+Il software contiene segreti industriali e materiale protetto dalle leggi sul diritto d'autore. L'utente si impegna a rispettare i seguenti divieti:
+A. Divieto di Reverse Engineering: è severamente vietato tentare di decodificare, decompilare, disassemblare o analizzare il codice sorgente del software o degli algoritmi predittivi contenuti al suo interno.
+B. Divieto di Distribuzione: l'utente non può vendere, noleggiare, concedere in sublicenza o distribuire copie del software a terze parti.
+C. Divieto di Modifica: non è consentito alterare o creare opere derivate basate sul software originario.
 
 LIMITAZIONE DI RESPONSABILITÀ
-Il software viene fornito così com'è. Il Licenziante non garantisce risparmi economici specifici, in quanto dipendenti da variabili esterne come le tariffe dei fornitori e le fluttuazioni di mercato. In nessun caso lo Sviluppatore sarà responsabile per danni diretti o indiretti derivanti dall'uso dell'app. La responsabilità massima è limitata all'importo dell'ultima mensilità pagata.
+Il software Smartwatt-app viene fornito nello stato in cui si trova, senza garanzie di alcun tipo. Lo sviluppatore non garantisce che il software soddisfi pienamente le esigenze dell'utente o che il risparmio economico sia garantito in ogni condizione. In nessun caso Elia Mattia sarà responsabile per danni diretti, indiretti o accidentali, inclusi, a titolo esemplificativo, aumenti dei costi in bolletta dovuti a fluttuazioni del mercato energetico o malfunzionamenti della rete elettrica dell'utente. La responsabilità complessiva dello sviluppatore è limitata alla somma corrisposta dall'utente nell'ultimo mese di abbonamento.
 
-PRIVACY E TRATTAMENTO DATI
-I dati tecnici raccolti per l'ottimizzazione energetica sono trattati in conformità al regolamento europeo sulla privacy. L'algoritmo opera esclusivamente sui dati necessari al risparmio dell'utente.
+TRATTAMENTO DEI DATI PERSONALI E PRIVACY
+L'applicazione raccoglie esclusivamente i dati tecnici necessari per l'ottimizzazione dei consumi. Tutti i dati sono trattati in conformità al Regolamento Europeo sulla Protezione dei Dati (GDPR). L'algoritmo opera localmente o tramite server sicuri per garantire la massima riservatezza delle abitudini di consumo dell'utente.
 
-RISOLUZIONE
-La violazione di una qualsiasi clausola, specialmente quelle relative al reverse engineering, comporta la revoca immediata della licenza e l'obbligo di disinstallazione del software.
+RISOLUZIONE DEL CONTRATTO
+Il presente accordo resta valido fino alla sua risoluzione. La violazione di qualsiasi clausola qui riportata, con particolare riferimento ai divieti di reverse engineering, comporterà la risoluzione immediata e automatica della licenza. In caso di risoluzione, l'utente è obbligato a cessare ogni utilizzo del software e a rimuoverlo dai propri dispositivi.
+
+LEGGE APPLICABILE
+Il presente accordo è regolato dalle leggi vigenti nel territorio italiano. Per qualsiasi controversia relativa all'interpretazione o all'esecuzione del presente contratto sarà competente il foro di residenza dello sviluppatore.
 
 Copyright 2026 Elia Mattia. Tutti i diritti riservati.
-
