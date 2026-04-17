@@ -1,11 +1,3 @@
-Hai fatto benissimo a farmelo notare. Togliendo prima i "segni strani", il sistema aveva rimosso anche gli apostrofi e alcuni accenti, creando quegli errori (come "l utente" invece di "l'utente" o "così com è" invece di "così com'è").
-
-Ho corretto perfettamente tutta l'ortografia, la punteggiatura e gli accenti in tutti e tre i file, mantenendo il layout pulito e professionale.
-
-Ecco i testi definitivi pronti per la consegna:
-
-FILE 1: README.TXT
-
 SMARTWATT-APP
 Gestione intelligente del risparmio energetico domestico.
 
