@@ -1,30 +1,29 @@
-Accordo di licenza per l'utente finale (EULA) di Smartwatt-app
+ACCORDO DI LICENZA PER L'UTENTE FINALE (EULA) - SMARTWATT-APP
+Proprietario e Licenziante: Elia Mattia
+Versione: 1.0
 
-Importante - leggere attentamente: questo accordo di licenza per l'utente finale ("EULA") è un contratto legale tra te (utente) e lo sviluppatore Elia Mattia ("licenziante"). 
+NATURA DELL'ACCORDO
+Il presente documento costituisce un contratto legale tra l'Utente Finale e lo Sviluppatore Elia Mattia. L'installazione o l'uso del software implica l'accettazione integrale dei termini qui riportati.
 
-Installando o utilizzando smartwatt-app, accetti di essere vincolato da tutte le regole di questo contratto. Se non sei d'accordo, non puoi installare o usare l'app.
+CONCESSIONE DELLA LICENZA E PROVA
+2.1. Il Software è concesso in licenza d'uso, non venduto.
+2.2. L'Utente beneficia di un periodo di valutazione gratuita di 14 giorni.
+2.3. Allo scadere del periodo di prova, l'attivazione della licenza richiede la sottoscrizione di un abbonamento mensile di 4,99 Euro.
 
-1. Concessione della licenza e periodo di prova
-Il software ti viene concesso in licenza d'uso. Ti viene concesso un periodo di prova gratuito di 14 giorni a partire dalla data di installazione. Durante questo periodo, puoi usare tutte le funzioni dell'app. Al termine dei 14 giorni, la licenza scadrà a meno che non venga sottoscritto l'abbonamento mensile previsto.
+RESTRIZIONI ALL'USO E DIVIETI TASSATIVI
+Ai sensi delle leggi vigenti sulla protezione della proprietà intellettuale, è fatto assoluto divieto di:
+A. Reverse engineering: tentare di decodificare, decompilare o analizzare il codice sorgente o gli algoritmi proprietari.
+B. Ridistribuzione: copiare, vendere, noleggiare o trasferire il software a terzi senza autorizzazione scritta.
+C. Modifica: alterare il software o rimuovere i marchi e le note di copyright.
 
-2. Abbonamento e pagamenti
-Il costo del servizio dopo il periodo di prova è di 3,99€ al mese. Il pagamento è ricorrente e può essere annullato in qualsiasi momento. Il mancato pagamento comporta la sospensione immediata dell'accesso alle funzionalità di automazione energetica.
+LIMITAZIONE DI RESPONSABILITÀ
+Il software viene fornito così com'è. Il Licenziante non garantisce risparmi economici specifici, in quanto dipendenti da variabili esterne come le tariffe dei fornitori e le fluttuazioni di mercato. In nessun caso lo Sviluppatore sarà responsabile per danni diretti o indiretti derivanti dall'uso dell'app. La responsabilità massima è limitata all'importo dell'ultima mensilità pagata.
 
-3. Divieto di reverse engineering e di redistribuzione
-Il codice di questa app è segreto e proprietario. Ti è severamente vietato:
-(a) Fare reverse engineering, decompilare o smontare l'app per cercare di scoprire il codice sorgente o l'algoritmo.
-(b) Copiare, distribuire o vendere l'app a terze persone.
-(c) Modificare l'app o creare altri programmi basati su questo software.
+PRIVACY E TRATTAMENTO DATI
+I dati tecnici raccolti per l'ottimizzazione energetica sono trattati in conformità al regolamento europeo sulla privacy. L'algoritmo opera esclusivamente sui dati necessari al risparmio dell'utente.
 
-4. Proprietà intellettuale
-Tutti i diritti, i testi e la logica di programmazione sono di proprietà esclusiva di Elia Mattia. Il software è protetto dalle leggi sul copyright. L'utente non acquista la proprietà del codice, ma solo il diritto temporaneo di utilizzarlo.
+RISOLUZIONE
+La violazione di una qualsiasi clausola, specialmente quelle relative al reverse engineering, comporta la revoca immediata della licenza e l'obbligo di disinstallazione del software.
 
-5. Esclusione di garanzie e responsabilità
-L'app viene fornita "così com'è". Lo sviluppatore non garantisce risparmi minimi garantiti, poiché i prezzi dell'energia dipendono dal mercato e dai fornitori. Elia Mattia non è responsabile per eventuali costi aggiuntivi in bolletta o danni derivanti da un uso improprio dell'automazione. La responsabilità massima del licenziante è limitata alla somma pagata dall'utente per l'ultimo mese di abbonamento.
-
-6. Fine del contratto
-Il contratto si risolve automaticamente se l'utente viola le clausole sul reverse engineering o sulla redistribuzione. In tal caso, l'utente dovrà cessare ogni utilizzo del software.
-
-Copyright (c) 2026 Elia Mattia. Tutti i diritti riservati.
-
+Copyright 2026 Elia Mattia. Tutti i diritti riservati.
 
