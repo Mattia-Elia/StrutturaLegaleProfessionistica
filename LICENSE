@@ -1,35 +1,30 @@
-Accordo di licenza per l'utente finale (EULA) di smartwatt-app
+Accordo di licenza per l'utente finale (EULA) di Smartwatt-app
 
 Importante - leggere attentamente: questo accordo di licenza per l'utente finale ("EULA") è un contratto legale tra te (utente) e lo sviluppatore Elia Mattia ("licenziante"). 
 
 Installando o utilizzando smartwatt-app, accetti di essere vincolato da tutte le regole di questo contratto. Se non sei d'accordo, non puoi installare o usare l'app.
 
-1. Concessione della licenza
-Il software non ti viene venduto, ma ti viene concesso in licenza d'uso. Questo contratto ti permette di installare e usare una sola copia dell'app sul tuo smartphone. La licenza è personale e non la puoi passare a nessun altro.
+1. Concessione della licenza e periodo di prova
+Il software ti viene concesso in licenza d'uso. Ti viene concesso un periodo di prova gratuito di 14 giorni a partire dalla data di installazione. Durante questo periodo, puoi usare tutte le funzioni dell'app. Al termine dei 14 giorni, la licenza scadrà a meno che non venga sottoscritto l'abbonamento mensile previsto.
 
-2. Divieto di reverse engineering e di redistribuzione
+2. Abbonamento e pagamenti
+Il costo del servizio dopo il periodo di prova è di 3,99€ al mese. Il pagamento è ricorrente e può essere annullato in qualsiasi momento. Il mancato pagamento comporta la sospensione immediata dell'accesso alle funzionalità di automazione energetica.
+
+3. Divieto di reverse engineering e di redistribuzione
 Il codice di questa app è segreto e proprietario. Ti è severamente vietato:
-(a) Fare reverse engineering, decompilare o smontare l'app per cercare di scoprire il codice sorgente o l'algoritmo di calcolo energetico.
-(b) Copiare, distribuire, regalare o vendere l'app a terze persone (divieto assoluto di redistribuzione).
-(c) Modificare l'app o creare altri programmi copiando parti di questo software.
-(d) Togliere o nascondere il nome di Elia Mattia o le note di copyright presenti nell'applicazione.
-
-3. Aggiornamenti
-Potrò rilasciare aggiornamenti per migliorare l'app o risolvere bug. Questi aggiornamenti sono coperti da questo stesso contratto. Non sono obbligato a fornire supporto tecnico gratuito 24/7.
+(a) Fare reverse engineering, decompilare o smontare l'app per cercare di scoprire il codice sorgente o l'algoritmo.
+(b) Copiare, distribuire o vendere l'app a terze persone.
+(c) Modificare l'app o creare altri programmi basati su questo software.
 
 4. Proprietà intellettuale
-Tutti i diritti, i testi, le grafiche e soprattutto la logica di programmazione del software sono di proprietà esclusiva di Elia Mattia. Il software è protetto dalle leggi sul copyright. Usando l'app non diventi proprietario di nulla, compri solo il permesso di usarla.
+Tutti i diritti, i testi e la logica di programmazione sono di proprietà esclusiva di Elia Mattia. Il software è protetto dalle leggi sul copyright. L'utente non acquista la proprietà del codice, ma solo il diritto temporaneo di utilizzarlo.
 
-5. Privacy e dati
-L'app legge i tuoi dati di consumo energetico per farti risparmiare. Questi dati vengono usati solo per il funzionamento dell'app e non vengono venduti ad aziende terze. L'algoritmo lavora in base al regolamento sulla privacy (GDPR).
+5. Esclusione di garanzie e responsabilità
+L'app viene fornita "così com'è". Lo sviluppatore non garantisce risparmi minimi garantiti, poiché i prezzi dell'energia dipendono dal mercato e dai fornitori. Elia Mattia non è responsabile per eventuali costi aggiuntivi in bolletta o danni derivanti da un uso improprio dell'automazione. La responsabilità massima del licenziante è limitata alla somma pagata dall'utente per l'ultimo mese di abbonamento.
 
-6. Esclusione di garanzie
-L'app viene fornita "così com'è". Non posso garantire al 100% che l'app non andrà mai in crash o che ti farà risparmiare milioni di euro, perché le tariffe della luce cambiano. Sei tu il responsabile finale dell'uso che fai dell'app.
-
-7. Limitazione di responsabilità
-Se per colpa di un bug dell'app la tua lavatrice parte nel momento sbagliato e spendi di più, non puoi farmi causa per chiedermi i danni. La mia responsabilità è limitata al massimo a quanto hai pagato per comprare l'applicazione.
-
-8. Fine del contratto
-Se violi anche solo una di queste regole (ad esempio provi a fare reverse engineering), questo contratto si annulla immediatamente e devi cancellare l'app dal tuo telefono.
+6. Fine del contratto
+Il contratto si risolve automaticamente se l'utente viola le clausole sul reverse engineering o sulla redistribuzione. In tal caso, l'utente dovrà cessare ogni utilizzo del software.
 
 Copyright (c) 2026 Elia Mattia. Tutti i diritti riservati.
+
+
