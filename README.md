@@ -1,13 +1,22 @@
-# Smartwatt-app
+SMARTWATT-APP
+Gestione intelligente del risparmio energetico domestico.
 
-# Descrizione del software
-Smartwatt è un'applicazione che ho creato per gestire il risparmio energetico di casa. Si collega ai contatori smart e usa un mio algoritmo per far partire gli elettrodomestici quando l'energia costa meno. C'è anche il tasto "forza avvio" se l'utente ha un'emergenza e vuole far partire tutto subito senza aspettare il momento più economico.
+DESCRIZIONE DEL PROGETTO
+Smartwatt è una soluzione software avanzata progettata per l ottimizzazione dei consumi elettrici. L'applicazione si interfaccia con i contatori intelligenti e utilizza un algoritmo predittivo proprietario per automatizzare l'attivazione degli elettrodomestici durante le fasce orarie a tariffazione ridotta.
 
-# Proprietà intellettuale
-Il codice, l'algoritmo predittivo e il copyright sono totalmente miei (Elia Mattia). Il software è closed-source (sorgente chiuso), quindi è protetto e non accessibile al pubblico.
+Caratteristiche principali:
 
-# Licenza e Modello di Business
-Per questo progetto ho scelto il profilo "professionista" con un'EULA proprietaria. L'applicazione segue un modello di abbonamento: i primi 14 giorni sono completamente gratuiti per permettere all'utente di testare il risparmio effettivo. Al termine della prova, il costo è di 3,99€ al mese.
+Automazione intelligente con sincronizzazione automatica dei prezzi del mercato elettrico.
 
-Perché ho fatto questa scelta:
-Visto che l'algoritmo che ho scritto è il vero valore del progetto, il mio obiettivo è guadagnare dalla vendita del servizio. Con la licenza EULA vieto il reverse engineering, impedendo ai concorrenti di rubare la mia logica di calcolo. Il periodo di prova di 14 giorni serve a dimostrare all'utente che l'app funziona davvero prima di chiedere il pagamento.
+Pulsante Forza Avvio per attivazione immediata in caso di emergenza.
+
+Monitoraggio in tempo reale dei dati di consumo.
+
+PROPRIETA INTELLETTUALE
+Il codice sorgente, la logica algoritmica e tutti i diritti d'autore sono di proprietà esclusiva di Elia Mattia. Il software è distribuito in modalità sorgente chiuso. Pertanto, l'accesso al codice sorgente non è consentito al pubblico né a terze parti.
+
+MODELLO DI BUSINESS E LICENZA
+Il progetto adotta il profilo Professionista, regolato da un accordo di licenza per l'utente finale.
+Il periodo di prova gratuita ha una durata di 14 giorni.
+Al termine della prova, il costo dell'abbonamento è di 4,99 Euro al mese.
+E severamente vietato il reverse engineering e la ridistribuzione non autorizzata. Questa scelta garantisce la sostenibilità del progetto e la protezione dellalgoritmo.
